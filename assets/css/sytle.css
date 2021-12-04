@@ -4,6 +4,7 @@
 :root{ 
     --preto: #222831;
     --cinza: #393e46;
+    --cinza-claro: #c9d6df;
     --azul: #00adb5;
     --branco: #eeeeee;
     --branco-escurto: #f0f0f0;
@@ -61,6 +62,44 @@ body {
     -webkit-box-shadow: 0px 0px 49px 4px rgba(0,0,0,0.15); 
     box-shadow: 0px 0px 49px 4px rgba(0,0,0,0.15);   
     z-index: 1; 
+}
+.modulos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.modulo {
+    flex-basis: 32%;
+}
+.modulo > h3 {
+    margin: 0px;
+    color: var(--branco);
+    background-color: var(--azul);
+    font-weight: 300;
+    font-size: 1.5rem;
+    padding: 10px 20px;
+}
+
+.modulo > ul {
+    margin: 0px;
+    padding: 10px;
+    list-style: none;
+}
+
+.modulo > ul > li {
+    padding: 10px;
+    font-size: 1.3rem;
+    cursor: pointer;
+}
+
+.modulo > ul > li:hover {
+    background-color: var(--cinza-claro);
+}
+
+.modulo > ul > li > a {
+    display: flex;
+    text-decoration: none;
+    color: var(--cinza);
 }
 
 .rodape {
