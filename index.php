@@ -19,8 +19,8 @@
                     <h3>Módulo 01</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=teste&file=teste">Hello world</a></li>
-                        <li><a href="#">Exercício A</a></li>
-                        <li><a href="#">Exercício A</a></li>
+                        <li><a href="exercicios.php?dir=basic&file=ola">ola PHP</a></li>
+                        <li><a href="exercicios.php?dir=basic&file=html">Integração HTML</a></li>
                     </ul>
                 </div>
             </nav>
