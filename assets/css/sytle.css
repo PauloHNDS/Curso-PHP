@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+
+:root{ 
+    --preto: #222831;
+    --cinza: #393e46;
+    --azul: #00adb5;
+    --branco: #eeeeee;
+}
+
+* {
+    font-family: 'Oswald', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    margin: 0px;
+    display: grid;
+    grid-template-rows:120px 1fr 60px;
+    grid-template-columns: 1fr;
+    grid-template-areas: "cabecalho" "principal" "rodape";
+}
+
+.cabecalho {
+    grid-area: cabecalho;
+    background-color: var(--cinza);
+}
+.principal {
+    grid-area: principal;
+    height: calc(100vh - 180px);
+    background-color: var(--branco);
+    padding: 20px;
+}
+
+.rodape {
+    grid-area: rodape;
+    background-color: var(--branco);
+    position: sticky;
+    bottom: 0px;
+}
