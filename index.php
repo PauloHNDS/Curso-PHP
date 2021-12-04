@@ -15,7 +15,7 @@
     <main class="principal">
         <div class="conteudo">
             <nav class="modulos">
-                <div class="modulo">
+                <div class="modulo verde">
                     <h3>Módulo 01</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
@@ -23,7 +23,7 @@
                         <li><a href="#">Exercício A</a></li>
                     </ul>
                 </div>
-                <div class="modulo">
+                <div class="modulo vermelho">
                     <h3>Módulo 02</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
@@ -31,7 +31,7 @@
                         <li><a href="#">Exercício A</a></li>
                     </ul>
                 </div>
-                <div class="modulo">
+                <div class="modulo azul">
                     <h3>Módulo 03</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
@@ -39,7 +39,7 @@
                         <li><a href="#">Exercício A</a></li>
                     </ul>
                 </div>
-                <div class="modulo">
+                <div class="modulo roxo">
                     <h3>Módulo 04</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
@@ -47,7 +47,7 @@
                         <li><a href="#">Exercício A</a></li>
                     </ul>
                 </div>
-                <div class="modulo">
+                <div class="modulo laranja">
                     <h3>Módulo 05</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
@@ -55,7 +55,7 @@
                         <li><a href="#">Exercício A</a></li>
                     </ul>
                 </div>
-                <div class="modulo">
+                <div class="modulo verde-escuro">
                     <h3>Módulo 06</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
@@ -63,7 +63,7 @@
                         <li><a href="#">Exercício A</a></li>
                     </ul>
                 </div>
-                <div class="modulo">
+                <div class="modulo vermelho-escuro">
                     <h3>Módulo 07</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
@@ -71,7 +71,7 @@
                         <li><a href="#">Exercício A</a></li>
                     </ul>
                 </div>
-                <div class="modulo">
+                <div class="modulo azul-escuro">
                     <h3>Módulo 08</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
@@ -79,7 +79,7 @@
                         <li><a href="#">Exercício A</a></li>
                     </ul>
                 </div>
-                <div class="modulo">
+                <div class="modulo roxo-escuro">
                     <h3>Módulo 09</h3>
                     <ul>
                         <li><a href="#">Exercício A</a></li>
@@ -91,7 +91,7 @@
         </div>
     </main>
     <footer class="rodape">
-        COD3R E ALUNOS © 2021
+        COD3R E ALUNOS © <?= date('Y'); ?>
     </footer>
 </body>
 </html>
