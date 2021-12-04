@@ -25,6 +25,10 @@ body {
 .cabecalho {
     grid-area: cabecalho;
     background-color: var(--cinza);
+    color: var(--preto);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 .principal {
     grid-area: principal;
