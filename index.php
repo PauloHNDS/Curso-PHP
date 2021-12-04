@@ -21,6 +21,8 @@
                         <li><a href="exercicios.php?dir=teste&file=teste">Hello world</a></li>
                         <li><a href="exercicios.php?dir=basic&file=ola">ola PHP</a></li>
                         <li><a href="exercicios.php?dir=basic&file=html">Integração HTML</a></li>
+                        <li><a href="exercicios.php?dir=basic&file=css">Integração CSS</a></li>
+                        <li><a href="exercicios.php?dir=basic&file=comentarios">Comentários PHP</a></li>
                     </ul>
                 </div>
             </nav>
