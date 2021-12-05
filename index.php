@@ -32,6 +32,7 @@
                         <li><a href="exercicios.php?dir=tipos&file=int">int</a></li>
                         <li><a href="exercicios.php?dir=tipos&file=float">float</a></li>
                         <li><a href="exercicios.php?dir=tipos&file=aritmeticas">aritmeticas</a></li>
+                        <li><a href="exercicios.php?dir=tipos&file=desafio_aritmetica">Desafio Precendência</a></li>
                     </ul>
                 </div>
             </nav>
