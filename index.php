@@ -36,6 +36,7 @@
                         <li><a href="exercicios.php?dir=tipos&file=string">String</a></li>
                         <li><a href="exercicios.php?dir=tipos&file=DesafioString"> Desafio String</a></li>
                         <li><a href="exercicios.php?dir=tipos&file=boolean"> boolean</a></li>
+                        <li><a href="exercicios.php?dir=tipos&file=conversion"> Conversão</a></li>
                     </ul>
                 </div>
             </nav>
