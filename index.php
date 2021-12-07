@@ -43,6 +43,8 @@
                     <h3>Módulo 03</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=variaveis&file=basico">Basico</a></li>
+                        <li><a href="exercicios.php?dir=variaveis&file=atribuicao">Atribuicao</a></li>
+                        <li><a href="exercicios.php?dir=variaveis&file=interpolacao">Interpalação</a></li>
                     </ul>
                 </div>
             </nav>
