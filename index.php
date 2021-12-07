@@ -45,6 +45,10 @@
                         <li><a href="exercicios.php?dir=variaveis&file=basico">Basico</a></li>
                         <li><a href="exercicios.php?dir=variaveis&file=atribuicao">Atribuicao</a></li>
                         <li><a href="exercicios.php?dir=variaveis&file=interpolacao">Interpalação</a></li>
+                        <li><a href="exercicios.php?dir=variaveis&file=variaveisVariaveis">variaveis de variaveis</a></li>
+                        <li><a href="exercicios.php?dir=variaveis&file=desafioVariaveis">Desafio variaveis</a></li>
+                        <li><a href="exercicios.php?dir=variaveis&file=valorReferencia">Valor & Referência</a></li>
+                        <li><a href="exercicios.php?dir=variaveis&file=constantes">Constantes</a></li>
                     </ul>
                 </div>
             </nav>
