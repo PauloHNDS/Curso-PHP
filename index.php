@@ -16,7 +16,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Módulo 01</h3>
+                    <h3>01. Introdução</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=teste&file=teste">Hello world</a></li>
                         <li><a href="exercicios.php?dir=basic&file=ola">ola PHP</a></li>
@@ -27,7 +27,7 @@
                     </ul>
                 </div>
                 <div class="modulo vermelho">
-                    <h3>Módulo 02</h3>
+                    <h3>02. Tipos primitivos</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=tipos&file=int">int</a></li>
                         <li><a href="exercicios.php?dir=tipos&file=float">float</a></li>
@@ -40,7 +40,7 @@
                     </ul>
                 </div>
                 <div class="modulo azul">
-                    <h3>Módulo 03</h3>
+                    <h3>03. Variaveis</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=variaveis&file=basico">Basico</a></li>
                         <li><a href="exercicios.php?dir=variaveis&file=atribuicao">Atribuicao</a></li>
@@ -49,6 +49,17 @@
                         <li><a href="exercicios.php?dir=variaveis&file=desafioVariaveis">Desafio variaveis</a></li>
                         <li><a href="exercicios.php?dir=variaveis&file=valorReferencia">Valor & Referência</a></li>
                         <li><a href="exercicios.php?dir=variaveis&file=constantes">Constantes</a></li>
+                    </ul>
+                </div>
+                <div class="modulo roxo">
+                    <h3>04. Estruturas de controler</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=estruturasControle&file=if_else">IF_ELSE</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle&file=operadoresRelacionais">Operadores Relacionais</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle&file=desafioPI">Desafio PI</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle&file=operadoresLogicos">Operadores Logicos</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle&file=desafioLogico">Desafio Logico</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle&file=switch">Switch</a></li>
                     </ul>
                 </div>
             </nav>
