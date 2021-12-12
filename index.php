@@ -60,6 +60,7 @@
                         <li><a href="exercicios.php?dir=estruturasControle&file=operadoresLogicos">Operadores Logicos</a></li>
                         <li><a href="exercicios.php?dir=estruturasControle&file=desafioLogico">Desafio Logico</a></li>
                         <li><a href="exercicios.php?dir=estruturasControle&file=switch">Switch</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle&file=DesafioSwitch">Desafio switch</a></li>
                     </ul>
                 </div>
             </nav>
