@@ -79,6 +79,12 @@
                         <li><a href="exercicios.php?dir=array&file=comparacao">Comparação</a></li>
                     </ul>
                 </div>
+                <div class="modulo verde-escuro">
+                    <h3>06. Estruturas De Controller 2</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=estruturasControle2&file=for">Laço for</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
