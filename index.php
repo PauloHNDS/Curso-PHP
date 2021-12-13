@@ -63,6 +63,17 @@
                         <li><a href="exercicios.php?dir=estruturasControle&file=DesafioSwitch">Desafio switch</a></li>
                     </ul>
                 </div>
+                <div class="modulo laranja">
+                    <h3>05. Array</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=array&file=basico">Basico</a></li>
+                        <li><a href="exercicios.php?dir=array&file=mapa">Mapa</a></li>
+                        <li><a href="exercicios.php?dir=array&file=desafioIndex">Desafio Index</a></li>
+                        <li><a href="exercicios.php?dir=array&file=DesafioMeses">DesafioMeses</a></li>
+                        <li><a href="exercicios.php?dir=array&file=operacao">Operações</a></li>
+
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
