@@ -71,7 +71,12 @@
                         <li><a href="exercicios.php?dir=array&file=desafioIndex">Desafio Index</a></li>
                         <li><a href="exercicios.php?dir=array&file=DesafioMeses">DesafioMeses</a></li>
                         <li><a href="exercicios.php?dir=array&file=operacao">Operações</a></li>
-
+                        <li><a href="exercicios.php?dir=array&file=DesafioSorteio">DesafioSorteio</a></li>
+                        <li><a href="exercicios.php?dir=array&file=arrayMulti">array Multi</a></li>
+                        <li><a href="exercicios.php?dir=array&file=constArray">Array constantes</a></li>
+                        <li><a href="exercicios.php?dir=array&file=get">$_GET</a></li>
+                        <li><a href="exercicios.php?dir=array&file=post">$_POST</a></li>
+                        <li><a href="exercicios.php?dir=array&file=comparacao">Comparação</a></li>
                     </ul>
                 </div>
             </nav>
