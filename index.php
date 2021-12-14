@@ -83,6 +83,9 @@
                     <h3>06. Estruturas De Controller 2</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=estruturasControle2&file=for">Laço for</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle2&file=desafioFor">Desafio for</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle2&file=foreach">Foreach</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle2&file=breakContinue">Break Continue</a></li>
                     </ul>
                 </div>
             </nav>
