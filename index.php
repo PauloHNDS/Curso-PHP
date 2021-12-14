@@ -86,6 +86,9 @@
                         <li><a href="exercicios.php?dir=estruturasControle2&file=desafioFor">Desafio for</a></li>
                         <li><a href="exercicios.php?dir=estruturasControle2&file=foreach">Foreach</a></li>
                         <li><a href="exercicios.php?dir=estruturasControle2&file=breakContinue">Break Continue</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle2&file=desafio_impressao">Desafio impressao</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle2&file=while_dowhile">while / do_while</a></li>
+                        <li><a href="exercicios.php?dir=estruturasControle2&file=desafioTabela">Desafio Tabela</a></li>
                     </ul>
                 </div>
             </nav>
