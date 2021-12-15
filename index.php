@@ -96,6 +96,9 @@
                     <h3>07. Função</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=funcao&file=escopo">Função e escopo</a></li>
+                        <li><a href="exercicios.php?dir=funcao&file=args_retorno">Argumentos e Retorno</a></li>
+                        <li><a href="exercicios.php?dir=funcao&file=args_variaveis">Argumentos e Variaveis</a></li>
+                        <li><a href="exercicios.php?dir=funcao&file=args_padrao">Argumentos Padrão</a></li>
                     </ul>
                 </div>
             </nav>
