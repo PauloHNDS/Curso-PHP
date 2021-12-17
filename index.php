@@ -99,6 +99,10 @@
                         <li><a href="exercicios.php?dir=funcao&file=args_retorno">Argumentos e Retorno</a></li>
                         <li><a href="exercicios.php?dir=funcao&file=args_variaveis">Argumentos e Variaveis</a></li>
                         <li><a href="exercicios.php?dir=funcao&file=args_padrao">Argumentos Padrão</a></li>
+                        <li><a href="exercicios.php?dir=funcao&file=usando_tipos">Usando Tipo padrão</a></li>
+                        <li><a href="exercicios.php?dir=funcao&file=anonima">Anonima</a></li>
+                        <li><a href="exercicios.php?dir=funcao&file=Closure_callable">Closure e Callable</a></li>
+                        <li><a href="exercicios.php?dir=funcao&file=retornandoFuncao">Retornando função</a></li>
                     </ul>
                 </div>
             </nav>
