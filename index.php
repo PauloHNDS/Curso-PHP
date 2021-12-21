@@ -103,6 +103,29 @@
                         <li><a href="exercicios.php?dir=funcao&file=anonima">Anonima</a></li>
                         <li><a href="exercicios.php?dir=funcao&file=Closure_callable">Closure e Callable</a></li>
                         <li><a href="exercicios.php?dir=funcao&file=retornandoFuncao">Retornando função</a></li>
+                        <li><a href="exercicios.php?dir=funcao&file=mapFilter">Map e Filter</a></li>
+                    </ul>
+                </div>
+                <div class="modulo vermelho-escuro">
+                    <h3>08. POO</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=POO&file=Classe">Classe</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=construtor">Construtor e Destrutor</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=heranca">Henraça</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=Visibilidade">Visibilidade</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=Static">Static</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=interface">Interface</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=classeAbstrata">classe Abstrata</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=final">Final</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=traits">traits</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=MetodosMagicos">Metodos e Magicos</a></li>
+                        <li><a href="exercicios.php?dir=POO&file=polimorfismo">Polimorfismo</a></li>
+                    </ul>
+                </div>
+                <div class="modulo roxo-escuro">
+                    <h3>09. Include</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=include&file=include">Include</a></li>
                     </ul>
                 </div>
             </nav>
