@@ -126,6 +126,10 @@
                     <h3>09. Include</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=include&file=include">Include</a></li>
+                        <li><a href="exercicios.php?dir=include&file=include_funcao">Include em função</a></li>
+                        <li><a href="exercicios.php?dir=include&file=include_require">Include Vs Require</a></li>
+                        <li><a href="exercicios.php?dir=include&file=require_return">Require com return</a></li>
+                        <li><a href="exercicios.php?dir=include&file=include_once">Include once</a></li>
                     </ul>
                 </div>
             </nav>
