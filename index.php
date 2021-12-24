@@ -132,6 +132,28 @@
                         <li><a href="exercicios.php?dir=include&file=include_once">Include once</a></li>
                     </ul>
                 </div>
+                <div class="modulo vermelho-sangue">
+                    <h3>10. Namespace</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=namespace&file=basico">Basico</a></li>
+                        <li><a href="exercicios.php?dir=namespace&file=sub">Sub</a></li>
+                        <li><a href="exercicios.php?dir=namespace&file=use">Use</a></li>
+                    </ul>
+                </div>
+                <div class="modulo verde-novo">
+                    <h3>11. Tratamento de error</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=tratamentoError&file=tryCatch">Try e Catch</a></li>
+                        <li><a href="exercicios.php?dir=tratamentoError&file=errorsPersonalizados">Erros personalizados</a></li>
+                    </ul>
+                </div>
+                <div class="modulo vermelho">
+                    <h3>12. Sessão e Cookie</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=sessao&file=sessao1">Sessão </a></li>
+                        <li><a href="exercicios.php?dir=sessao&file=gerenciandoSessao">Gerenciado de Sessão</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>

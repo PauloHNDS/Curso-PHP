@@ -130,6 +130,12 @@ body {
 .modulo.roxo-escuro { border: 2px solid #4A148C; }
 .modulo.roxo-escuro > h3 { background-color: #4A148C;}
 
+.modulo.vermelho-sangue { border: 2px solid #8b0000; }
+.modulo.vermelho-sangue > h3 { background-color: #8b0000;}
+
+.modulo.verde-novo { border: 2px solid rgba(4, 65, 32, 0.787); }
+.modulo.verde-novo > h3 { background-color: rgba(4, 65, 32, 0.787);}
+
 .rodape {
     grid-area: rodape;
     background-color: var(--branco);
