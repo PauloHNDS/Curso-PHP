@@ -132,7 +132,7 @@
                         <li><a href="exercicios.php?dir=include&file=include_once">Include once</a></li>
                     </ul>
                 </div>
-                <div class="modulo vermelho-sangue">
+                <div class="modulo roxo">
                     <h3>10. Namespace</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=namespace&file=basico">Basico</a></li>
@@ -140,7 +140,7 @@
                         <li><a href="exercicios.php?dir=namespace&file=use">Use</a></li>
                     </ul>
                 </div>
-                <div class="modulo verde-novo">
+                <div class="modulo verde">
                     <h3>11. Tratamento de error</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=tratamentoError&file=tryCatch">Try e Catch</a></li>
