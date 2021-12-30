@@ -173,6 +173,15 @@
                     <h3>13. API</h3>
                     <ul>
                         <li><a href="exercicios.php?dir=API&file=date">Datas</a></li>
+                        <li><a href="exercicios.php?dir=API&file=dateTime">DateTime</a></li>
+                        <li><a href="exercicios.php?dir=API&file=upload">upload</a></li>
+                        <li><a href="exercicios.php?dir=API&file=download">download</a></li>
+                    </ul>
+                </div>
+                <div class="modulo laranja">
+                    <h3>14. Formulario</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=form&file=filtro">Filtros</a></li>
                     </ul>
                 </div>
             </nav>
