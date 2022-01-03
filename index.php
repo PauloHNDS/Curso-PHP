@@ -184,6 +184,20 @@
                         <li><a href="exercicios.php?dir=form&file=filtro">Filtros</a></li>
                     </ul>
                 </div>
+                <div class="modulo azul">
+                    <h3>15. DataBase</h3>
+                    <ul>
+                        <li><a href="exercicios.php?dir=DataBase&file=criar_banco">Criando um banco de dados</a></li>
+                        <li><a href="exercicios.php?dir=DataBase&file=criar_tabela">Criando tabela</a></li>
+                        <li><a href="exercicios.php?dir=DataBase&file=inserir">Inserir</a></li>
+                        <li><a href="exercicios.php?dir=DataBase&file=consultar">Consultar</a></li>
+                        <li><a href="exercicios.php?dir=DataBase&file=excluir">Excluir</a></li>
+                        <li><a href="exercicios.php?dir=DataBase&file=excluir_">Excluir_</a></li>
+                        <li><a href="exercicios.php?dir=DataBase&file=incluir_">Incluir</a></li>
+                        <li><a href="exercicios.php?dir=DataBase&file=insert_pdo">Inserir PDO</a></li>
+                        <li><a href="exercicios.php?dir=DataBase&file=consultar_pdo">consultar PDO</a></li>
+                    </ul>
+                </div>
             </nav>
         </div>
     </main>
